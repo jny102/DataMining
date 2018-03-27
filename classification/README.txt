@@ -1,4 +1,4 @@
-Python 2.7 is.
+Python 2.7 is used.
 Both "c45.py" and "bayes.py" are excutable, which takes the three parameters, inputTrainingData, inputTestData, and outputName.
 For example: c45.py mushroom.training mushroom.test c45output
 
